@@ -5,7 +5,7 @@ Arcade game
 
 ## Instructions
 
-You have to pass you bug enemies without classhing them and without getting out of borders to increase your score 
+You have to pass your bug enemies without clashing them and without getting out of borders to increase your score 
 
 
 
