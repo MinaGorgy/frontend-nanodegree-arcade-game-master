@@ -5,6 +5,10 @@ Arcade game
 
 ## Instructions
 
+Go to index.html and open it on your browser.
+
+## How to play
+
 You have to pass your bug enemies without clashing them and without getting out of borders to increase your score 
 
 
@@ -13,6 +17,6 @@ You have to pass your bug enemies without clashing them and without getting out 
 
 * **Mina Morcos**
 
-## Acknowledgments
+## Acknowledgements
 
-* Thank you udacity team for the great resoucres I really apperciate :)
+* Thank you udacity team for the great resources I really appreciate :)
